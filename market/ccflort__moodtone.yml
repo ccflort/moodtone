@@ -1,0 +1,8 @@
+# awesome-dsh-plugin 条目 —— 复制到 catalog 仓库的 data/plugins/ccflort__moodtone.yml
+url: https://github.com/ccflort/moodtone
+name: ccflort/moodtone
+category: theme
+description:
+  en: Six mood palettes for DeepSeek Harness, nine editable semantic colors, seven message-bubble styles and glass materials, stored locally.
+  zh: 六套情绪配色、九个可编辑语义色、七种气泡样式与玻璃材质，配置存在本地。
+icon: https://raw.githubusercontent.com/ccflort/moodtone/main/assets/icon-180.png
