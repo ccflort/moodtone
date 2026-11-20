@@ -2,7 +2,7 @@
   "name": "moodtone",
   "version": "0.1.0",
   "type": "module",
-  "description": "为 DeepSeek Harness 换一整套皮能：6 套情绪配色、9 个语义色自定义、7 种气泡样式与玻璃材质，全部存在本地。",
+  "description": "为 DeepSeek Harness 换一整套皮肤：6 套情绪配色、9 个语义色自定义、7 种气泡样式与玻璃材质，全部存在本地。",
   "keywords": ["dsh", "dsh-plugin", "theme", "skin", "dark-mode", "moodtone"],
   "author": "芙落FLORT (https://github.com/ccflort)",
   "license": "MIT",
